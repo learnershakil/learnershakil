@@ -1,7 +1,18 @@
-<a href="https://learnershakil.rf.gd"><img src="https://i.ibb.co/pd04FDp/banner.png" alt="banner" style="max-width: 100%;width: 1000px; center;" border="0"></a><br/>
+<a href="http://learnershakil.rf.gd"><img src="https://i.ibb.co/pd04FDp/banner.png" alt="banner" style="max-width: 100%;width: 1000px; center;" border="0"></a><br/>
 
 <h1 align="center">Hi, I'm Shakil Ahmad</h1>
 <h3 align="center">🚀 Professional Full Stack Developer 🌟 Freelancer Developer</h3>
+
+### 📊 Stats
+
+<a href="http://learnershakil.rf.gd/">
+<img src="https://github-readme-stats.vercel.app/api?username=learnershakil&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="shakil's github stats" width="48%" >
+</a>
+
+<a href="http://learnershakil.rf.gd/">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=learnershakil&theme=github_dark&hide_border=true" alt="shakil's github streak" width="48%" >
+</a>
+
 
 ### 🛠️ Skills and Tools:
 
