@@ -1,4 +1,4 @@
-[![learnershakil.rf.gd](https://github.com/learnershakil/learnershakil/blob/main/banner.png)](https://learnershakil.rf.gd)
+<a href="https://learnershakil.rf.gd"><img src="https://i.ibb.co/pd04FDp/banner.png" alt="banner" style="max-width: 100%;width: 1000px; center;" border="0"></a><br/>
 
 <h1 align="center">Hi, I'm Shakil Ahmad</h1>
 <h3 align="center">🚀 Professional Full Stack Developer 🌟 Freelancer Developer</h3>
