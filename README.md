@@ -118,21 +118,20 @@
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/parrotsecos1.PNG" alt="Parrot Security" height="50">
 </div>
 
-### ⚡️ Weekly Development Stats:
-<!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 30 mins  ████████████▓░░░░░░░░░░░░   50.00 % 
-Python       8 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░    27.00 % 
-HTML/CSS     5 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░    16.67 % 
-Java         1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░    04.88 % 
-Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░    01.09 % 
 
-```
-<!--END_SECTION:waka-->
+### 🔝 Most used languages
 
-### 👨‍💻 Recent Projects and Contributions:
-- Project A: [Link to Project A](https://example.com)
-- Project B: [Link to Project B](https://example.com)
+<a href="http://learnershakil.rf.gd/">
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnershakil&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" />
+</a>
+
+---
+
+<details>
+  <summary>⚡️ Weekly Development Stats:</summary>
+  
+  [![Shakil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=learnershakil&theme=github_dark&hide_border=true)](https://wakatime.com/@learnershakil)
+</details>
 
 ### 👥 Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/learnershakil/count.svg)
