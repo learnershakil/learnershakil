@@ -127,12 +127,6 @@
 
 ---
 
-<details>
-  <summary>⚡️ Weekly Development Stats:</summary>
-  
-  [![Shakil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=learnershakil&theme=github_dark&hide_border=true)](https://wakatime.com/@learnershakil)
-</details>
-
 ### 👥 Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/learnershakil/count.svg)
 
