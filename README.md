@@ -134,7 +134,7 @@
 
 - 🌐 Website: [learnershakil.rf.gd](https://learnershakil.rf.gd)
 - 📧 Email: learnershakil@gmail.com
-- 💼 LinkedIn: [Shakil Ahmad](https://www.linkedin.com/in/shakil-ahmad-69a6a326a/)
+- 💼 LinkedIn: [Shakil Ahmad](https://www.linkedin.com/in/learnershakil/)
 - 📸 Instagram: [_mr.learner_](https://www.instagram.com/_mr.learner_/)
 - 📱 WhatsApp: [+919709358602](https://wa.me/+919709358602)
 - 🐙 GitHub: [learnershakil](https://github.com/learnershakil)
