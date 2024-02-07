@@ -48,7 +48,6 @@
 <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="three.js" height="40">
 <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40">
 <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-2038877-1720090.png?f=avif&w=512" alt="Flutter" height="40">
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/React_Native_Tutorial.jpg" alt="React Native" height="40">
 </div>  
 
