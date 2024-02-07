@@ -33,9 +33,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="40">
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/768px-Kotlin_Icon.svg.png?20171012085709" alt="Kotlin" height="40">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-swift-21-1175088.png?f=avif&w=512" alt="Swift" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" height="40">
 </div>  
   
 #### Frameworks & Libraries:
