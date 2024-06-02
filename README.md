@@ -1,7 +1,7 @@
 <a href="http://learnershakil.rf.gd"><img src="https://github.com/learnershakil/learnershakil/blob/main/learnershakil.png" alt="banner" style="max-width: 100%;width: 1000px; center;" border="0"></a><br/>
 
 <h1 align="center">Hi, I'm Shakil Ahmad</h1>
-<h3 align="center">🚀 Professional Full Stack Developer 🌟 Freelancer Developer</h3>
+<h3 align="center">🚀 Full Stack Developer 🌟 Freelancer Developer</h3>
 
 ### 📊 Stats
 
@@ -27,7 +27,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="40">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-rust-3445848-2878780.png?f=avif&w=512" alt="Rust" height="40">
+<img src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" alt="Rust" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40">
@@ -73,8 +73,8 @@
 
 <div align="center">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40">
-<img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="GitHub" height="40">
-<img src="https://static-00.iconduck.com/assets.00/gitkraken-icon-2048x1785-haw0umko.png" alt="GitKraken" height="40">
+<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="GitHub" height="40">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswrbQkpbml3yz6cosnyRAHQm5wDCkMGHelw&s" alt="GitKraken" height="40">
 <img src="https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj" alt="Postman" height="40">
 <img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Netlify" height="40">
 <img src="https://download.blender.org/branding/blender_logo_socket.png" alt="Blender" height="40">
@@ -97,7 +97,8 @@
 #### IDEs / Text Editors:
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAZ86coHvlx5vGsRzLG5Jwsdr06usVZH3lQ&s" alt="neovim" height="40">
 <img src="https://ph-files.imgix.net/3edf830d-c178-4727-b575-b6655a216494.png" alt="Sublime Text" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="40">
  </div>
@@ -111,6 +112,10 @@
 <img src="https://w7.pngwing.com/pngs/592/938/png-transparent-mac-os-hd-logo.png" alt="Mac OS" height="50">
 <img src="https://i.ibb.co/fXLfk2p/download.png" alt="Arch Linux" height="50">
 <img src="https://guide-images.cdn.ifixit.com/igi/TiufGNbhhSwJPAoh.large" alt="Kali Linux" height="50">
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/parrotsecos1.PNG" alt="Parrot Security" height="50">
+<img src="https://garudalinux.org/images/garuda/home/link_icon.png" alt="Garuda Linux" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/2089px-Fedora_icon_%282021%29.svg.png" alt="fedora" height="50">
+<img src="https://w1.pngwing.com/pngs/475/165/png-transparent-manager-icon-theme-manjaro-linux-kde-kde-plasma-5-gitlab-share-icon-cursor-thumbnail.png" alt="manjaro" height="50">
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/parrotsecos1.PNG" alt="Parrot Security" height="50">
 </div>
 
@@ -132,7 +137,6 @@
 - 📧 Email: learnershakil@gmail.com
 - 💼 LinkedIn: [Shakil Ahmad](https://www.linkedin.com/in/learnershakil/)
 - 📸 Instagram: [_mr.learner_](https://www.instagram.com/_mr.learner_/)
-- 📱 WhatsApp: [+919709358602](https://wa.me/+919709358602)
 - 🐙 GitHub: [learnershakil](https://github.com/learnershakil)
 
 
