@@ -136,6 +136,7 @@
 - 🌐 Website: [learnershakil.rf.gd](https://learnershakil.rf.gd)
 - 📧 Email: learnershakil@gmail.com
 - 💼 LinkedIn: [Shakil Ahmad](https://www.linkedin.com/in/learnershakil/)
+- 🐦 Twitter: [@learnershakil](https://x.com/learnershakil)
 - 📸 Instagram: [_mr.learner_](https://www.instagram.com/_mr.learner_/)
 - 🐙 GitHub: [learnershakil](https://github.com/learnershakil)
 
