@@ -99,6 +99,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAZ86coHvlx5vGsRzLG5Jwsdr06usVZH3lQ&s" alt="neovim" height="40">
 <img src="https://ph-files.imgix.net/3edf830d-c178-4727-b575-b6655a216494.png" alt="Sublime Text" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" height="40">
 </div>
   
 #### 💻Workspace:
