@@ -92,7 +92,6 @@
 <img src="https://w7.pngwing.com/pngs/540/279/png-transparent-raspberry-pi-foundation-raspberry-pi-3-raspbian-the-magpi-raspberry-pi-logo-magenta-arduino.png" alt="Raspberry Pi" height="40">
 </div>  
 
-
 #### IDEs / Text Editors:
 
 <div align="center">
@@ -100,7 +99,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAZ86coHvlx5vGsRzLG5Jwsdr06usVZH3lQ&s" alt="neovim" height="40">
 <img src="https://ph-files.imgix.net/3edf830d-c178-4727-b575-b6655a216494.png" alt="Sublime Text" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="40">
- </div>
+</div>
   
 #### 💻Workspace:
 
@@ -121,10 +120,12 @@
 
 ### 🔝 Most used languages
 
-<a href="http://learnershakil.rf.gd/">
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnershakil&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" />
-</a>
-
+<div style="display: flex; align-items: flex-start;">
+  <a href="http://learnershakil.rf.gd/">
+    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnershakil&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" />
+  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=learnershakil&row=3&column=4&no-bg=true" />
+</div>
 ---
 
 ### 👥 Visitors:
@@ -138,5 +139,3 @@
 - 🐦 Twitter: [@learnershakil](https://x.com/learnershakil)
 - 📸 Instagram: [_mr.learner_](https://www.instagram.com/_mr.learner_/)
 - 🐙 GitHub: [learnershakil](https://github.com/learnershakil)
-
-
