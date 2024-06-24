@@ -115,7 +115,6 @@
 <img src="https://garudalinux.org/images/garuda/home/link_icon.png" alt="Garuda Linux" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/2089px-Fedora_icon_%282021%29.svg.png" alt="fedora" height="50">
 <img src="https://w1.pngwing.com/pngs/475/165/png-transparent-manager-icon-theme-manjaro-linux-kde-kde-plasma-5-gitlab-share-icon-cursor-thumbnail.png" alt="manjaro" height="50">
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/parrotsecos1.PNG" alt="Parrot Security" height="50">
 </div>
 
 
