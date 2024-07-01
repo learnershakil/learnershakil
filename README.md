@@ -79,14 +79,13 @@
 <img src="https://download.blender.org/branding/blender_logo_socket.png" alt="Blender" height="40">
 <img src="https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j_400x400.png" alt="Heroku" height="40">
 <img src="https://supabase.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=256&q=75" alt="Supabase" height="40"> 
-<img src="https://www.gstatic.com/devrel-devsite/prod/ve71f558f8fdfc41aa4dfb3d6849b3a58ae257de9fcb1864452754797dd0232f6/firebase/images/touchicon-180.png" alt="Firebase" height="40">
+<img src="https://www.gstatic.com/devrel-devsite/prod/v138136e2eb30b542aaba1f756fef1bb285a0aca3815d9b3afa69262b01441aa5/firebase/images/lockup.svg" alt="Firebase" height="40">
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure" height="40"> 
 <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="Google Cloud" height="40">
 <img src="https://i.ibb.co/5FRD0cs/download.jpg" alt="Burp Suite" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nessus-Professional-FullColor-RGB.svg/2560px-Nessus-Professional-FullColor-RGB.svg.png" alt="Nessus" height="40">  
-<img src="https://avatars.githubusercontent.com/u/6392739?s=280&v=4" alt="Conda" height="40">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nessus-Professional-FullColor-RGB.svg/2560px-Nessus-Professional-FullColor-RGB.svg.png" alt="Nessus" height="40">
 <img src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg" alt="Vercel" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" alt="Arduino" height="40">
 <img src="https://w7.pngwing.com/pngs/540/279/png-transparent-raspberry-pi-foundation-raspberry-pi-3-raspbian-the-magpi-raspberry-pi-logo-magenta-arduino.png" alt="Raspberry Pi" height="40">
