@@ -133,7 +133,7 @@
 ### 🤝 Connect with me:
 
 - 🌐 Website: [learnershakil.rf.gd](https://learnershakil.rf.gd)
-- 📧 Email: dev.shakilahmad@gmail.com
+- 📧 Email: learnershakil@gmail.com
 - 💼 LinkedIn: [Shakil Ahmad](https://www.linkedin.com/in/learnershakil/)
 - 🐦 Twitter: [@learnershakil](https://x.com/learnershakil)
 - 📸 Instagram: [learnershakil](https://www.instagram.com/learnershakil/)
