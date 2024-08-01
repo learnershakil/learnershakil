@@ -1,9 +1,30 @@
 <a href="http://learnershakil.rf.gd"><img src="https://github.com/learnershakil/learnershakil/blob/main/learnershakil.png" alt="banner" style="max-width: 100%;width: 1000px; center;" border="0"></a><br/>
 
-<h1 align="center">Hi, I'm Shakil Ahmad</h1>
-<h3 align="center">🚀 Full Stack Developer 🌟 Freelancer Developer</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shakil+Ahmad!;" />
+</h1>
+<h3 align="center">🌐 Full Stack Developer  ✈️ Internet Explorer  🌟 Freelancer Developer</h3>
 
-### 📊 Stats
+<div align="center">
+  <img src="https://profile-counter.glitch.me/learnershakil/count.svg?"  />
+</div>
+
+# 💫 ABOUT ME :
+I'm Shakil Ahmad, a seasoned Full Stack Developer adept in crafting robust web applications with expertise in JavaScript, React, Node.js, and more. With a passion for innovation and problem-solving, I excel in collaborative environments, driving projects from concept to completion.
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+* 🌍  I'm based in INDIA
+* 🖥️  See my portfolio at [Want to Know more about me ??](http://learnershakil.rf.gd/)
+* ✉️  You can contact me at [learnershakil@gmail.com](mailto:learnershakil@gmail.com)
+* 🚀  I'm currently working on my minor project.
+* 🧠  I'm learning Ai/Ml
+* ⚡  I think I can adapt myself anywhere and make my surroundings people and everyone happy...
+
+
+### 📊 Stats :
 
 <a href="http://learnershakil.rf.gd/">
 <img src="https://github-readme-stats.vercel.app/api?username=learnershakil&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="shakil's github stats" width="48%" >
@@ -12,7 +33,6 @@
 <a href="http://learnershakil.rf.gd/">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnershakil&theme=github_dark&hide_border=true" alt="shakil's github streak" width="48%" >
 </a>
-
 
 ### 🛠️ Skills and Tools:
 
@@ -116,22 +136,21 @@
 <img src="https://w1.pngwing.com/pngs/475/165/png-transparent-manager-icon-theme-manjaro-linux-kde-kde-plasma-5-gitlab-share-icon-cursor-thumbnail.png" alt="manjaro" height="50">
 </div>
 
-
 ### 🔝 Most used languages
 
-<div style="display: flex; align-items: flex-start;">
-  <a href="http://learnershakil.rf.gd/">
-    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnershakil&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss&layout=compact" />
-  </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=learnershakil&row=3&column=4&no-bg=true" />
-</div>
----
+![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=learnershakil&theme=github_dark)
 
-### 👥 Visitors:
-![Visitor Count](https://profile-counter.glitch.me/learnershakil/count.svg)
+
+### 🏆 My trophies
+<img height="180" src="https://github-profile-trophy.vercel.app/?username=learnershakil&column=8&theme=algolia&no-frame=true"/>
+
+<!--
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnershakil&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+-->
 
 ### 🤝 Connect with me:
-
 - 🌐 Website: [learnershakil.rf.gd](https://learnershakil.rf.gd)
 - 📧 Email: learnershakil@gmail.com
 - 💼 LinkedIn: [Shakil Ahmad](https://www.linkedin.com/in/learnershakil/)
