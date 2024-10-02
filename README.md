@@ -1,4 +1,4 @@
-<a href="http://learnershakil.rf.gd"><img src="https://github.com/learnershakil/learnershakil/blob/main/learnershakil.png" alt="banner" style="max-width: 100%;width: 1000px; center;" border="0"></a><br/>
+<a href="http://learnershakil.me/"><img src="https://github.com/learnershakil/learnershakil/blob/main/learnershakil.png" alt="banner" style="max-width: 100%;width: 1000px; center;" border="0"></a><br/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shakil+Ahmad!;" />
@@ -17,7 +17,7 @@ I'm Shakil Ahmad, a seasoned Full Stack Developer adept in crafting robust web a
 ###
 
 * 🌍  I'm based in INDIA
-* 🖥️  See my portfolio at [Want to Know more about me ??](http://learnershakil.rf.gd/)
+* 🖥️  See my portfolio at [Want to Know more about me ??](http://learnershakil.me/)
 * ✉️  You can contact me at [learnershakil@gmail.com](mailto:learnershakil@gmail.com)
 * 🚀  I'm currently working on my minor project.
 * 🧠  I'm learning Ai/Ml
@@ -26,11 +26,11 @@ I'm Shakil Ahmad, a seasoned Full Stack Developer adept in crafting robust web a
 
 ### 📊 Stats :
 
-<a href="http://learnershakil.rf.gd/">
+<a href="http://learnershakil.me/">
 <img src="https://github-readme-stats.vercel.app/api?username=learnershakil&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="shakil's github stats" width="48%" >
 </a>
 
-<a href="http://learnershakil.rf.gd/">
+<a href="http://learnershakil.me/">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnershakil&theme=github_dark&hide_border=true" alt="shakil's github streak" width="48%" >
 </a>
 
@@ -151,7 +151,7 @@ I'm Shakil Ahmad, a seasoned Full Stack Developer adept in crafting robust web a
 -->
 
 ### 🤝 Connect with me:
-- 🌐 Website: [learnershakil.rf.gd](https://learnershakil.rf.gd)
+- 🌐 Website: [http://learnershakil.me/](http://learnershakil.me/)
 - 📧 Email: learnershakil@gmail.com
 - 💼 LinkedIn: [Shakil Ahmad](https://www.linkedin.com/in/learnershakil/)
 - 🐦 Twitter: [learnershakil](https://x.com/learnershakil)
