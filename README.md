@@ -1,5 +1,3 @@
-<a href="http://learnershakil.me/"><img src="https://github.com/learnershakil/learnershakil/blob/main/learnershakil.png" alt="banner" style="max-width: 100%;width: 1000px; center;" border="0"></a><br/>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shakil+Ahmad!;" />
 </h1>
