@@ -86,7 +86,9 @@ I'm Shakil Ahmad, a seasoned Full Stack Developer adept in crafting robust web a
 <div align="center">
 <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40">
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40">
+<img src="https://d2mkz4zdclmlek.cloudfront.net/blog/wp-content/uploads/2023/05/postgresql_original_wordmark_logo_icon_146392.png" alt="Postgresql" height="40">
 </div>  
+
 
 #### Tools:
 
