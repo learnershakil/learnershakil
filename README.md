@@ -1,40 +1,79 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shakil+Ahmad!;" />
-</h1>
-<h3 align="center">🌐 Full Stack Developer  ✈️ Internet Explorer  🌟 Freelancer Developer</h3>
+<!-- GIF SECTION -->
+<div style="display: flex; justify-content: center; ">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="auto" width="auto" />
+</div>
+<br>
 
-<div align="center">
+<!-- HELLO SECTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shakil+Ahmad!" alt="HELLO SECTION">
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20">  Full Stack Developer   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="20">  Internet Explorer  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="20">  Freelancer Developer</h3>
+
+<!-- This will refresh counter on every page refresh -->
+<!--<div align="center">
   <img src="https://profile-counter.glitch.me/learnershakil/count.svg?"  />
+</div>-->
+
+<!-- This will refresh counter on every new user visit -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=learnershakil&icon=0&color=0"  />
 </div>
 
-# 💫 ABOUT ME :
-I'm Shakil Ahmad, a seasoned Full Stack Developer adept in crafting robust web applications with expertise in JavaScript, React, Node.js, and more. With a passion for innovation and problem-solving, I excel in collaborative environments, driving projects from concept to completion.
+<!-- About ME -->
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="20"> About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<div class="about-main" style="display: flex;">
+    <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
+        <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="300" width="250">
+    </div>
 
-###
+```
+learnershakil@github:~$ ./welcome.sh
+```
 
-* 🌍  I'm based in INDIA
-* 🖥️  See my portfolio at [Want to Know more about me ??](http://learnershakil.me/)
-* ✉️  You can contact me at [learnershakil@gmail.com](mailto:learnershakil@gmail.com)
-* 🚀  I'm currently working on my minor project.
-* 🧠  I'm learning Ai/Ml
-* ⚡  I think I can adapt myself anywhere and make my surroundings people and everyone happy...
+```markdown
+🎓 Pursuing a Diploma in Computer Science
+👨‍💻 Passionate about programming and exploring the world of technology.
+🔎 Main interests: Development & Penetration Testing
+🔭 Thriving on building robust Backend Systems.
+🌱 Currently diving into DevOps and Next.js
+🌟 Proficient in: Java, TypeScript
+💼 Open to collaboration on innovative Web development projects!
+🚩 Keep coding, keep innovating! Let's build the future together!
+🐧 I use Arch btw...
+🎧 Most likely listening to a song right now
+🔄 To understand recursion, you first need to understand recursion.
+​​‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+```
+
+  </div>
+</div>
+
+<br>
 
 
-### 📊 Stats :
 
-<a href="http://learnershakil.me/">
-<img src="https://github-readme-stats.vercel.app/api?username=learnershakil&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="shakil's github stats" width="48%" >
-</a>
+<!-- About ME -->
+### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> GitHub Stats
 
-<a href="http://learnershakil.me/">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=learnershakil&theme=github_dark&hide_border=true" alt="shakil's github streak" width="48%" >
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
-### 🛠️ Skills and Tools:
+<div align="center" style="display: flex; gap: 30px; align-items: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=learnershakil&hide_title=true&hide_border=false&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="105" alt="Status Graph" />
+  <img src="https://streak-stats.demolab.com?user=learnershakil&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="105" alt="Streak Graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=learnershakil&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="105" alt="Languages Graph"  />
+</div>
 
-#### Programming Languages:
+<br>
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> Skills and Tools:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+
+### Programming Languages:
 
 <div align="center"> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40">
@@ -136,13 +175,16 @@ I'm Shakil Ahmad, a seasoned Full Stack Developer adept in crafting robust web a
 <img src="https://w1.pngwing.com/pngs/475/165/png-transparent-manager-icon-theme-manjaro-linux-kde-kde-plasma-5-gitlab-share-icon-cursor-thumbnail.png" alt="manjaro" height="50">
 </div>
 
-### 🔝 Most used languages
 
-![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=learnershakil&theme=github_dark)
+<br><br>
+### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
 
-### 🏆 My trophies
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=learnershakil&column=8&theme=algolia&no-frame=true"/>
+![](https://github-profile-trophy.vercel.app/?username=learnershakil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br>
+
 
 <!--
 <div align="center">
@@ -151,9 +193,36 @@ I'm Shakil Ahmad, a seasoned Full Stack Developer adept in crafting robust web a
 -->
 
 ### 🤝 Connect with me:
-- 🌐 Website: [http://learnershakil.me/](http://learnershakil.me/)
-- 📧 Email: learnershakil@gmail.com
-- 💼 LinkedIn: [Shakil Ahmad](https://www.linkedin.com/in/learnershakil/)
-- 🐦 Twitter: [learnershakil](https://x.com/learnershakil)
-- 📸 Instagram: [learnershakil](https://www.instagram.com/learnershakil/)
-- 🐙 GitHub: [learnershakil](https://github.com/learnershakil)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<table>
+  <tr>
+    <td>
+      <img src='https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif' width="200px">
+    </td>
+    <td>
+      <ul>
+        <li><img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="15"/> Website:<a href="http://learnershakil.me/"> learnershakil.me</a></li>
+        <li><img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="15px"/> Email:<a href="mailto:learnershakil@gmail.com/"> learnershakil@gmail.com</a></li>
+        <li><img src="https://w7.pngwing.com/pngs/46/539/png-transparent-linkedin-logo-media-sns-social-social-links-icon.png" width="15px"/> LinkedIn:<a href="https://www.linkedin.com/in/learnershakil/"> learnershakil</a></li>
+        <li><img src="https://static.vecteezy.com/system/resources/previews/016/716/467/non_2x/twitter-icon-free-png.png" width="15px"/> Twitter:<a href="https://x.com/learnershakil/"> learnershakil</a></li>
+        <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" width="15"/> Instagram:<a href="https://www.instagram.com/learnershakil/"> learnershakil</a></li>
+        <li><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="15"/> GitHub:<a href="https://github.com/learnershakil/"> learnershakil</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- Contribution Graph-->
+
+### 📈 Contribution Graph:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnershakil&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+<br>
+<!-- Snake-Eating My Contribution Graph -->
+
+### 🐍 Snake-Eating My Contribution Graph:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src="https://raw.githubusercontent.com/ANSH127/ANSH127/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
