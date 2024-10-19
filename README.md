@@ -30,7 +30,7 @@
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
         <img align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ1N2ltOXo5dWYxZ3RsZXp0Z2k4bXppNGJuZjFsdnd6eHFpc2JncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" height="300" width="250">
     </div>
-
+ 
 ```
 learnershakil@github:~$ ./welcome.sh
 ```
@@ -57,7 +57,7 @@ learnershakil@github:~$ ./welcome.sh
 
 
 
-<!-- About ME -->
+<!-- GitHub Stats -->
 ### <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="20"> GitHub Stats
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
@@ -185,13 +185,13 @@ learnershakil@github:~$ ./welcome.sh
 
 <br>
 
+<!-- WakaTime Section -->
+### ⏳ Coding Activity:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
+<!--<img src="https://wakatime.com/badge/user/4e681fc4-42d5-4101-a352-d5223e090efa.svg" alt="WakaTime Badge" /> -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=learnershakil&layout=compact&theme=tokyonight&langs_count=6" height="195" />
 
-<!--
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=learnershakil&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
--->
-
+<!-- Connect me Section -->
 ### 🤝 Connect with me:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
