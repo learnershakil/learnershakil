@@ -159,11 +159,10 @@ learnershakil@github:~$ ./welcome.sh
 <img src="https://freepngimg.com/save/76037-installation-ubuntu-server-edition-linux-canonical/800x801" alt="ubuntu-server" height="50">
 <img src="https://i.ibb.co/PZJJgks/mac.png" alt="Mac OS" height="50">
 <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch Linux" height="50">
-<img src="https://guide-images.cdn.ifixit.com/igi/TiufGNbhhSwJPAoh.large" alt="Kali Linux" height="50">
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/parrotsecos1.PNG" alt="Parrot Security" height="50">
-<img src="https://garudalinux.org/images/garuda/home/link_icon.png" alt="Garuda Linux" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/2089px-Fedora_icon_%282021%29.svg.png" alt="fedora" height="50">
-<img src="https://w1.pngwing.com/pngs/475/165/png-transparent-manager-icon-theme-manjaro-linux-kde-kde-plasma-5-gitlab-share-icon-cursor-thumbnail.png" alt="manjaro" height="50">
+<img src="https://i.ibb.co/k3PHj6C/kali.png" alt="Kali Linux" height="50">
+<img src="https://i.ibb.co/41N7NXX/parrot.png" alt="Parrot Security" height="50">
+<img src="https://absolutelybaching.com/wp-content/uploads/2022/05/garuda-linux-logo.png" alt="Garuda Linux" height="50">
+<img src="https://i.ibb.co/9yN3jNt/fedora.png" alt="fedora" height="50">
 </div>
 
 
