@@ -118,7 +118,7 @@ learnershakil@github:~$ ./welcome.sh
 </div>  
 
 
-#### Tools:
+<!-- #### Tools:
 
 <div align="center">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40">
@@ -139,7 +139,7 @@ learnershakil@github:~$ ./welcome.sh
 <img src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg" alt="Vercel" height="40"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" alt="Arduino" height="40">
 <img src="https://w7.pngwing.com/pngs/540/279/png-transparent-raspberry-pi-foundation-raspberry-pi-3-raspbian-the-magpi-raspberry-pi-logo-magenta-arduino.png" alt="Raspberry Pi" height="40">
-</div>  
+</div>  -->  
 
 #### IDEs / Text Editors:
 
@@ -154,11 +154,11 @@ learnershakil@github:~$ ./welcome.sh
 #### 💻Workspace:
 
 <div align="center">
-<img src="https://www.bleepstatic.com/content/hl-images/2021/08/09/windows-11-square-text.jpg" alt="Windows 11" height="50">
-<img src="https://static.redhat.com/libs/redhat/brand-assets/2/corp/logo--on-dark.svg" alt="Red Hat Enterprise Linux" height="50">
-<img src="https://www.osboxes.org/wp-content/uploads/2018/04/ubuntu-server-desktop-post.png" alt="ubuntu-server" height="50">
-<img src="https://w7.pngwing.com/pngs/592/938/png-transparent-mac-os-hd-logo.png" alt="Mac OS" height="50">
-<img src="https://i.ibb.co/fXLfk2p/download.png" alt="Arch Linux" height="50">
+<img src="https://i.ibb.co/QMh6KpS/win11.png" alt="Windows 11" height="50">
+<img src="https://i.ibb.co/Bwknn5y/redhat.png" alt="Red Hat Enterprise Linux" height="50">
+<img src="https://freepngimg.com/save/76037-installation-ubuntu-server-edition-linux-canonical/800x801" alt="ubuntu-server" height="50">
+<img src="https://i.ibb.co/PZJJgks/mac.png" alt="Mac OS" height="50">
+<img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch Linux" height="50">
 <img src="https://guide-images.cdn.ifixit.com/igi/TiufGNbhhSwJPAoh.large" alt="Kali Linux" height="50">
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/parrotsecos1.PNG" alt="Parrot Security" height="50">
 <img src="https://garudalinux.org/images/garuda/home/link_icon.png" alt="Garuda Linux" height="50">
