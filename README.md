@@ -78,7 +78,6 @@ learnershakil@github:~$ ./welcome.sh
 <div align="center"> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C#" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" height="40">
@@ -95,28 +94,20 @@ learnershakil@github:~$ ./welcome.sh
 
 <div align="center">
 <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40">
+<img src="https://v4.mui.com/static/logo.png" alt="Material-UI" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="40">
+<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40">
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40">
-<img src="https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg" alt="Next.js" height="40">
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40">
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="Express.js" height="40">
-<img src="https://uploads.sitepoint.com/wp-content/uploads/2016/10/1477673935anime-logo.png" alt="Anime.js" height="40">
-<img src="https://editor.analyticsvidhya.com/uploads/22024tf.png" alt="tensorflow" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="Node.js" height="40">
+<img src="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp" alt="Express.js" height="40">
+<img src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" alt="Next.js" height="40">
 <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="three.js" height="40">
+<img src="https://editor.analyticsvidhya.com/uploads/22024tf.png" alt="tensorflow" height="40">
 <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40">
 <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40">
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/React_Native_Tutorial.jpg" alt="React Native" height="40">
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" height="40">
 </div>  
 
-#### UI/UX Frameworks & Tools:
-
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="Figma" height="40">
-<img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Adobe Illustrator" height="40">
-<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="40">
-<img src="https://v4.mui.com/static/logo.png" alt="Material-UI" height="40">
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40">
-</div>  
 
 #### Databases:
 
@@ -155,8 +146,8 @@ learnershakil@github:~$ ./welcome.sh
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREAZ86coHvlx5vGsRzLG5Jwsdr06usVZH3lQ&s" alt="neovim" height="40">
-<img src="https://ph-files.imgix.net/3edf830d-c178-4727-b575-b6655a216494.png" alt="Sublime Text" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="40">
+<img src="https://ph-files.imgix.net/3edf830d-c178-4727-b575-b6655a216494.png" alt="Sublime Text" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" height="40">
 </div>
   
