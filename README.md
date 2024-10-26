@@ -63,9 +63,9 @@ learnershakil@github:~$ ./welcome.sh
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 
 <div align="center" style="display: flex; gap: 30px; align-items: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=learnershakil&hide_title=true&hide_border=false&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="105" alt="Status Graph" />
-  <img src="https://streak-stats.demolab.com?user=learnershakil&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="105" alt="Streak Graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=learnershakil&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="105" alt="Languages Graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=learnershakil&hide_title=true&hide_border=false&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="105" alt="Status Graph" /> -->
+  <img src="https://streak-stats.demolab.com?user=learnershakil&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200" alt="Streak Graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=learnershakil&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="200" alt="Languages Graph"  />
 </div>
 
 <br>
@@ -179,7 +179,9 @@ learnershakil@github:~$ ./welcome.sh
 ### ⏳ Coding Activity:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
 <!--<img src="https://wakatime.com/badge/user/4e681fc4-42d5-4101-a352-d5223e090efa.svg" alt="WakaTime Badge" /> -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=learnershakil&layout=compact&theme=tokyonight&langs_count=6" height="195" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=learnershakil&layout=compact&theme=tokyonight&langs_count=6" height="235" />
+</div>
 
 <!-- Connect me Section -->
 ### 🤝 Connect with me:
