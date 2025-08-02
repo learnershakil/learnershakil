@@ -36,12 +36,12 @@ learnershakil@github:~$ ./welcome.sh
 ```
 
 ```markdown
-🎓 Pursuing a Diploma in Computer Science
+🎓 Pursuing a B.Tech CSE
 👨‍💻 Passionate about programming and exploring the world of technology.
 🔎 Main interests: Development & Penetration Testing
 🔭 Thriving on building robust Backend Systems.
-🌱 Currently diving into DevOps and Next.js
-🌟 Proficient in: Java, TypeScript
+🌱 Currently diving into Web3 and DeFi
+🌟 Proficient in: C++, TypeScript
 💼 Open to collaboration on innovative Web development projects!
 🚩 Keep coding, keep innovating! Let's build the future together!
 🐧 I use Arch btw...
